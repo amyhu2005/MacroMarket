@@ -1,0 +1,767 @@
+institution_name,total_papers
+National Bureau of Economic Research,185
+University of Chicago,145
+Center for Economic and Policy Research,142
+"University of California, Berkeley",116
+Stanford University,92
+Harvard University,89
+Yale University,88
+Princeton University,80
+Columbia University,66
+Massachusetts Institute of Technology,63
+Centre for Economic Policy Research,58
+New York University,56
+Northwestern University,50
+University of Pennsylvania,49
+London School of Economics and Political Science,46
+Duke University,42
+University College London,39
+University of Oxford,39
+University of Toronto,38
+Boston University,38
+University of Michigan,36
+"University of California, Los Angeles",34
+Bocconi University,33
+University of Wisconsin–Madison,33
+Federal Reserve Bank of Minneapolis,31
+Brown University,31
+The University of Texas at Austin,29
+IZA - Institute of Labor Economics,29
+University of Bonn,27
+University of Minnesota,27
+University of Southern California,26
+Cornell University,26
+Federal Reserve Board of Governors,25
+University of California San Diego,24
+Carnegie Mellon University,21
+Paris School of Economics,21
+Economic Policy Institute,20
+University of Rochester,20
+University of British Columbia,20
+University of Hong Kong,20
+Toulouse School of Economics,19
+National University of Singapore,19
+Federal Reserve Bank of New York,19
+Pennsylvania State University,19
+Boston College,18
+Institut d'Etudes Politiques de Paris,17
+Arizona State University,17
+University of Notre Dame,17
+Institute for Fiscal Studies,17
+University of Zurich,17
+Stockholm University,16
+University of Virginia,15
+Centre de Recherche en Économie et Statistique,15
+University of Essex,14
+United States Census Bureau,14
+Norwegian School of Economics,14
+Dartmouth College,14
+Federal Reserve Bank of Richmond,14
+Georgetown University,13
+University of Mannheim,13
+Dana-Farber/Harvard Cancer Center,13
+Peking University,13
+"University of Maryland, College Park",12
+California Institute of Technology,12
+BREAD (Bureau for Research and Economic Analysis of Development),12
+Queen Mary University of London,12
+University of Pittsburgh,12
+Johns Hopkins University,12
+Washington University in St. Louis,11
+Universitat Pompeu Fabra,11
+Federal Reserve Bank of Chicago,11
+Emory University,11
+Centre National de la Recherche Scientifique,11
+"University of California, Santa Barbara",11
+World Bank Group,11
+Federal Reserve Bank of San Francisco,11
+"University of California, Davis",11
+Federal Reserve Bank of Philadelphia,11
+Australian National University,10
+University of Warwick,10
+University of Copenhagen,10
+University of Bristol,10
+Chinese University of Hong Kong,10
+Indiana University,10
+Ludwig-Maximilians-Universität München,10
+Rice University,9
+University of Cologne,9
+London Business School,9
+Hoover Institution,9
+World Bank,9
+United States Department of the Treasury,9
+Federal Reserve,9
+University of Cambridge,8
+University of Exeter,8
+University of Surrey,8
+Institució Catalana de Recerca i Estudis Avançats,8
+The University of Tokyo,8
+Max Planck Institute for Behavioral Economics,8
+McGill University,8
+University of Bologna,8
+Bank of Italy,8
+"University of California, Santa Cruz",8
+Einaudi Institute for Economics and Finance,8
+Vanderbilt University,8
+Centre National pour la Recherche Scientifique et Technique (CNRST),8
+California Southern University,8
+University of Amsterdam,8
+Fafo Foundation,7
+Tinbergen Institute,7
+Universidad Carlos III de Madrid,7
+Hebrew University of Jerusalem,7
+Seoul National University,7
+Tel Aviv University,7
+Barcelona School of Economics,7
+Brandeis University,7
+Texas A&M University,7
+Federal Reserve Bank of St. Louis,7
+The Ohio State University,7
+Michigan State University,7
+Bureau of Economic Analysis,7
+University of Lausanne,7
+Dartmouth Hospital,7
+Federal Reserve Bank of Cleveland,6
+Inter-American Development Bank,6
+The University of Melbourne,6
+Federal Reserve Bank of Atlanta,6
+University of Edinburgh,6
+École Polytechnique,6
+ENSAE Paris,6
+Centre for European Economic Research,6
+UCLA Health,6
+Ross School,6
+Uppsala University,6
+UNSW Sydney,6
+Imperial College London,6
+Tufts University,6
+George Washington University,6
+University of Arizona,6
+Monash University,6
+BI Norwegian Business School,6
+Goethe University Frankfurt,6
+Bank of England,6
+"University of California, Irvine",6
+Collegio Carlo Alberto,6
+Hitotsubashi University,5
+Hong Kong University of Science and Technology,5
+International Monetary Fund,5
+Abdul Latif Jameel Poverty Action Lab,5
+Western University,5
+Escola Brasileira de Economia e Finanças,5
+Bank of Canada,5
+RAND Corporation,5
+Queen's University,5
+Brigham Young University,5
+Aarhus University,5
+Vrije Universiteit Amsterdam,5
+HEC Montréal,5
+Stony Brook University,5
+European Central Bank,5
+Centro de Estudios Monetarios y Financieros,5
+Florida State University,5
+University of Nottingham,5
+Decision Sciences (United States),5
+University of Utah,5
+Georgia State University,5
+New School,5
+University of Oslo,5
+Centre for Research in Engineering Surface Technology,5
+University of Iowa,4
+The University of Sydney,4
+Institute for Social and Economic Research,4
+Fudan University,4
+Federal Trade Commission,4
+Impact,4
+European University Institute,4
+Ifo Institute for Economic Research,4
+University of Oregon,4
+George Mason University,4
+IESE Business School,4
+Tilburg University,4
+University of Illinois Urbana-Champaign,4
+HEC Paris,4
+Banco Central de Chile,4
+University of Georgia,4
+Princeton Public Schools,4
+Madison Group (United States),4
+University of Minnesota System,4
+Stockholm School of Economics,4
+Tsinghua University,4
+Aalto University,4
+Statistics Norway,4
+Center for Responsible Travel,4
+Public Policy Institute of California,4
+Copenhagen Business School,4
+Singapore Management University,4
+Shanghai University of Finance and Economics,4
+Bilkent University,4
+Renmin University of China,4
+Rutgers Sexual and Reproductive Health and Rights,4
+Science Oxford,4
+Banco de Portugal,4
+Clemson University,4
+Universität Innsbruck,4
+National Bank of Belgium,4
+Libera Università Internazionale degli Studi Sociali Guido Carli,4
+University of Connecticut,4
+King's College London,4
+Kyoto University,4
+ETH Zurich,4
+University of Washington,4
+KU Leuven,4
+Shanghai Jiao Tong University,4
+University of St.Gallen,4
+Erasmus University Rotterdam,4
+Instituto Tecnológico Autónomo de México,4
+Research Institute of Industrial Economics,3
+John F. Kennedy University,3
+Universidad Torcuato Di Tella,3
+United States Military Academy,3
+Kindai University,3
+Purdue University West Lafayette,3
+Institute for Advanced Study in Toulouse,3
+Temple University,3
+University of Manchester,3
+Pontificia Universidad Católica de Chile,3
+Pomona College,3
+University of Illinois Chicago,3
+Peterson Institute for International Economics,3
+Organisation de Coopération et de Développement Economiques,3
+Syracuse University,3
+New Economic School,3
+University College Dublin,3
+University of Colorado Boulder,3
+Microsoft Research (United Kingdom),3
+Lancaster University,3
+University of Calgary,3
+University of Groningen,3
+Maastricht University,3
+The University of Queensland,3
+"University of California, Merced",3
+Institut für Arbeitsmarkt und Berufsforschung,3
+Trinity College Dublin,3
+New York University Abu Dhabi,3
+Humboldt-Universität zu Berlin,3
+Bank of Mexico,3
+CY Cergy Paris Université,3
+Williams College,3
+Frankfurt School of Finance & Management,3
+Baruch College,3
+Centre Pour La Recherche Economique et ses Applications,3
+Banque de France,3
+Centre de Recerca en Economia Internacional,3
+WZB Berlin Social Science Center,3
+Durham University,3
+Bank for International Settlements,3
+University of Turin,3
+Université Paris 1 Panthéon-Sorbonne,3
+Australian Regenerative Medicine Institute,3
+University of Rome Tor Vergata,3
+University of North Carolina at Chapel Hill,3
+Université Libre de Bruxelles,3
+University of Vienna,3
+Central European University,3
+École des hautes études en sciences sociales,3
+HSBC Holdings,3
+Aix-Marseille Université,3
+Université de Montréal,3
+Employment Agency,3
+Università della Svizzera italiana,3
+University of Southampton,3
+American University,3
+Economic Research Centre,3
+Wharton County Junior College,3
+University of Alicante,2
+Université Paris Sciences et Lettres,2
+National University,2
+National Graduate Institute for Policy Studies,2
+National Taiwan University,2
+National Research University Higher School of Economics,2
+Center for Social and Economic Research,2
+Université du Québec à Montréal,2
+Centre d'Etudes Prospectives et d'Informations Internationales,2
+University of Missouri,2
+Centre d'Économie de la Sorbonne,2
+Université Paris Dauphine-PSL,2
+Claremont McKenna College,2
+Lund University,2
+Luxembourg Institute of Socio-Economic Research,2
+"City, University of London",2
+Universität Hamburg,2
+University of California System,2
+City University of Hong Kong,2
+"Chinese University of Hong Kong, Shenzhen",2
+Chicago Department of Public Health,2
+Charles University,2
+Université Laval,2
+Michigan United,2
+University of Bern,2
+University of Bergen,2
+Center for Effective Global Action,2
+Mitchell Institute,2
+NIHR Imperial Biomedical Research Centre,2
+Center for Global Development,2
+"Universidad de Los Andes, Chile",2
+Utrecht University,2
+Simon Fraser University,2
+UCLA Medical Center,2
+Tulane University,2
+Tula University,2
+York University,2
+Zhejiang University,2
+Auckland University of Technology,2
+Sun Yat-sen University,2
+Swedish Institute,2
+Swiss Finance Institute,2
+TU Dortmund University,2
+American Enterprise Institute,2
+École Supérieure de Commerce de Rennes,2
+The King's College,2
+École Supérieure des Sciences Économiques et Commerciales,2
+Alfred P. Sloan Foundation,2
+The University of Osaka,2
+Agricultural & Applied Economics Association,2
+Southern States University,2
+Bank of Finland,2
+Universidade Católica Portuguesa,2
+Santa Fe Institute,2
+Center for Economic Research and Graduate Education – Economics Institute,2
+Paris Jourdan Sciences Economiques,2
+Cemmap,2
+Canadian Institute for Advanced Research,2
+Virginia Commonwealth University,2
+University of Wisconsin System,2
+Ca' Foscari University of Venice,2
+Virginia Tech,2
+Pontifícia Universidade Católica do Rio de Janeiro,2
+W.E. Upjohn Institute for Employment Research,2
+Walker (United States),2
+Booth University College,2
+United States Social Security Administration,2
+Wilfrid Laurier University,2
+Royal Holloway University of London,2
+"Rutgers, The State University of New Jersey",2
+SIL International,2
+Collège de France,2
+"Théorie Économique, Modélisation et Applications",2
+Federal Reserve Bank of Dallas,2
+University of Massachusetts Amherst,2
+Graduate Institute of International and Development Studies,2
+IIT@MIT,2
+Jinan University,2
+INSEAD,2
+Electronic Product Services (Czechia),2
+Google (United States),2
+University of Luxembourg,2
+International Food Policy Research Institute,2
+International Finance Corporation,2
+Entrepreneurial Ecosystems,2
+University of Northwestern,2
+Impact Technology Development (United States),2
+University of Southern Denmark,2
+European Corporate Governance Institute,2
+University of Glasgow,2
+University of Gothenburg,2
+Institute of Economics,2
+University of Leicester,2
+Institute for Evaluation of Labour Market and Education Policy,2
+Institute for Employment Studies,2
+Fundação Getulio Vargas,2
+University of Houston,2
+University of Jinan,2
+Ford Motor Company (United States),2
+University of Ottawa,2
+University of Padua,2
+University of Illinois System,2
+Institut National de Statistique et d'Economie Appliquée,2
+University of International Business and Economics,2
+University of Delaware,2
+Japan University of Economics,2
+Don State Agrarian University,2
+University of Chile,2
+University of Nebraska–Lincoln,2
+Learning Through an Expanded Arts Program,2
+"Czech Academy of Sciences, Economics Institute",2
+Danmarks Nationalbank,2
+University of Tübingen,2
+LMU Klinikum,2
+University of Colorado System,2
+Dyson (United Kingdom),2
+Leibniz Institute for Financial Research SAFE,2
+Her Majesty's Revenue and Customs,2
+Data Management (Italy),2
+Lahore University of Management Sciences,2
+Kiel Institute for the World Economy,2
+HEC Paris in Qatar,2
+Deutsche Bundesbank,2
+University of Oklahoma,1
+United States Department of Commerce,1
+University of Leeds,1
+United States Agency for International Development,1
+University of Music Lausanne,1
+University of Massachusetts Chan Medical School,1
+University of Massachusetts Boston,1
+United States Department of Justice,1
+Wroclaw University of Economics and Business,1
+United States Department of Labor,1
+University of Konstanz,1
+University of Kentucky,1
+University of Miami,1
+United States International Trade Commission,1
+University of Milan,1
+École des Hautes Études en Santé Publique,1
+University of Milano-Bicocca,1
+William P. Wharton Trust,1
+École nationale des ponts et chaussées,1
+Tobacco Research Institute,1
+Tongji University,1
+Wunschbaby Institut für Kinderwunsch,1
+United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology,1
+École Normale Supérieure de Lyon,1
+University of Newcastle Australia,1
+Trinity College,1
+École Normale Supérieure,1
+TrygFonden,1
+University of Nigeria,1
+École Nationale de la Statistique et de l'Analyse de l'Information,1
+École Nationale Supérieure des Mines de Paris,1
+Zhejiang University of Finance and Economics,1
+University of New Brunswick,1
+University of Indianapolis,1
+École Pratique des Hautes Études,1
+University of North Carolina at Charlotte,1
+Télécom Paris,1
+University of Liverpool,1
+Yeshiva University,1
+Toronto Western Hospital,1
+UCLouvain,1
+YWCA Madison,1
+Xiamen University,1
+University of Nottingham Ningbo China,1
+Transylvania University,1
+Uber AI (United States),1
+United States Securities and Exchange Commission,1
+"University of California, Riverside",1
+Wheaton College - Illinois,1
+University of Mons,1
+University College Lillebaelt,1
+University of Sussex,1
+University of Tennessee at Knoxville,1
+University Medical Center Groningen,1
+University Press of Florida,1
+University of Trento,1
+University of Tsukuba,1
+University of Economics Ho Chi Minh City,1
+University of East Anglia,1
+University of Duisburg-Essen,1
+University of Antwerp,1
+University of Atlanta,1
+University of Basel,1
+University of Dayton,1
+University of Bergamo,1
+University of Palermo,1
+University of Colorado Denver,1
+University of Victoria,1
+Université Clermont Auvergne,1
+University of Cagliari,1
+Université Catholique du Congo,1
+Universität Ulm,1
+Universität Koblenz,1
+University of Cape Town,1
+University of Waterloo,1
+Università Cattolica del Sacro Cuore,1
+University of Wisconsin Health,1
+University of the Sacred Heart,1
+"University of California, San Diego",1
+University of the Humanities,1
+University College Lahore,1
+Université Paris-Panthéon-Assas,1
+Universitat de Barcelona,1
+Universitat Ramon Llull,1
+Universidad Autónoma de Madrid,1
+Western University of Health Sciences,1
+Universidad Católica Santo Domingo,1
+West Virginia University,1
+Washington Center for Equitable Growth,1
+Universidad EAFIT,1
+Wagner College,1
+Universidad ORT Uruguay,1
+Universidad Pública de Navarra (UPNA),1
+University of Richmond,1
+University of the District of Columbia,1
+University of Helsinki,1
+Universidad de Costa Rica,1
+University of San Diego,1
+University of South Carolina,1
+University of Haifa,1
+Vienna University of Economics and Business,1
+Universidad de Montevideo,1
+Universidad de Navarra,1
+Universidad del Desarrollo,1
+Universidad del Desarrollo del Estado de Puebla,1
+Universidade Federal de Pernambuco,1
+University of Geneva,1
+Universidade Nova de Lisboa,1
+Universitas Gadjah Mada,1
+Universitas Pembangunan Nasional Veteran Jakarta,1
+Universitat Autònoma de Barcelona,1
+University of Florida,1
+Université Toulouse-I-Capitole,1
+University of Bath,1
+ADA University,1
+The University of Texas at San Antonio,1
+Ecogenomics (Japan),1
+Fondation Pour la Recherche Sur la Biodiversité,1
+Florida Department of State,1
+Film Independent,1
+Federal Reserve Bank of Kansas City,1
+Federal Reserve Bank of Boston,1
+Federal Ministry of Labour and Social Affairs,1
+Faculdades Guarulhos,1
+European Bank for Reconstruction and Development,1
+Escola de Economia de São Paulo,1
+Energy International (United States),1
+Ecology and Ecosystem Health,1
+Ecolab (United Kingdom),1
+Ecolab (Germany),1
+Ecclesia College,1
+Free University of Bozen-Bolzano,1
+Eastern University,1
+Duke Kunshan University,1
+Duke Energy (United States),1
+Decision Research,1
+Deakin University,1
+DePaul University,1
+De Nederlandsche Bank,1
+Danish Ministry of Finance,1
+Czech Academy of Sciences,1
+Curtin University,1
+Crown College,1
+Corvinus University of Budapest,1
+Consejo Nacional de Ciencia y Tecnología,1
+Franklin W. Olin College of Engineering,1
+Freie Universität Berlin,1
+Commonwealth Education Trust,1
+HKU-Pasteur Research Pole,1
+IIT@Harvard,1
+IE University,1
+ICF International (United States),1
+Hunter College,1
+Hong Kong Baptist University,1
+Hindustan Petroleum Corporation Limited (India),1
+Higher Institute of Engineering,1
+Henan University,1
+Heidelberg University,1
+Hebrew College,1
+Health Education Council,1
+Harbin Institute of Technology,1
+Halle Institute for Economic Research,1
+Guangdong University of Finance,1
+Friedrich-Alexander-Universität Erlangen-Nürnberg,1
+Graduate School USA,1
+Government of the United States of America,1
+Government of Thailand,1
+Goethe-Institute United Kingdom,1
+Godfrey Okoye University,1
+Gobierno de Navarra,1
+Global Development Network,1
+Ghent University Hospital,1
+Georgia Institute of Technology,1
+George Institute for Global Health,1
+Fundação de Apoio à Universidade Federal de São Paulo,1
+Fundación de Estudios de Economía Aplicada,1
+Fulda University of Applied Sciences,1
+Congressional Budget Office,1
+Columbia Medical Practice,1
+Ian's Friends Foundation,1
+Australian Taxation Office,1
+"Birkbeck, University of London",1
+Bielefeld University,1
+Berlin School of Economics and Law,1
+Berea College,1
+Baylor University,1
+Baycrest Hospital,1
+Bank of Spain,1
+Banco de la República Colombia,1
+Banco Central del Uruguay,1
+Bamenda University of Science and Technology,1
+Babeș-Bolyai University,1
+BRIQ Institute on Behavior and Inequality,1
+BRAC University,1
+Australian Bureau of Agricultural and Resource Economics,1
+Brandman University,1
+Augsburg University,1
+Arcon (United States),1
+Analysis Group (United States),1
+Amsterdam UMC Location Vrije Universiteit Amsterdam,1
+Amherst College,1
+American Institute for Economic Research,1
+American Bar Foundation,1
+Amazon (United States),1
+Amazon (Germany),1
+Alzheimer's Society,1
+African Refuge,1
+African Center for Economic Transformation,1
+Adam Smith Institute,1
+Bloomberg (United States),1
+Brookings Institution,1
+Cobham (United States),1
+Central Bank of the Republic of Turkey,1
+Claremont Graduate University,1
+City University of Seattle,1
+City University of New York,1
+Citadel,1
+Chung-Ang University,1
+Christian-Albrechts-Universität zu Kiel,1
+Christ University,1
+Cheung Kong Graduate School of Business,1
+Chapman University,1
+Centre de Recherches Politiques de Sciences Po,1
+Centre de Recherche en Économie et Management,1
+Centre d'Études et de Recherches sur le Développement International,1
+Central University of Finance and Economics,1
+Central Bank of Ireland,1
+Brooklyn Law School,1
+Central Bank of Brazil,1
+Center for Islamic Studies (ISAM),1
+Center for Interuniversity Research and Analysis on Organizations,1
+"Center for Economic Research on Governance, Inequality and Conflict",1
+Carleton University,1
+Carleton College,1
+"California State University, Fullerton",1
+CREATe Centre,1
+CMR University,1
+CIRED,1
+Burning Rock Biotech (China),1
+Bureau of Labor Statistics,1
+Brooks Automation (Germany),1
+IPAG Business School,1
+Immediate Post Concussion Assessment and Cognitive Testing (United States),1
+The University of Texas at Dallas,1
+Northeastern University,1
+Radboud University Nijmegen,1
+Quantum Devices (United States),1
+Promundo,1
+Process Systems Enterprise (United Kingdom),1
+Polytechnique Montréal,1
+Politecnico di Milano,1
+Pinterest (United States),1
+Orchid Pharma (India),1
+Olive View-UCLA Medical Center,1
+Office of International Affairs,1
+Oberlin College,1
+Nuffield Foundation,1
+Northwood University,1
+Northeast Catholic College,1
+Reichman University,1
+North Carolina State University,1
+"Nordic Institute for Studies in Innovation, Research and Education",1
+Newcastle University,1
+"Network for Studies on Pensions, Aging and Retirement",1
+Nemocnice Šternberk,1
+Naval Postgraduate School,1
+Natural Resources Canada,1
+National Taiwan University Hospital,1
+National Sun Yat-sen University,1
+National Institute of Statistics and Geography,1
+National Institute of Statistics and Economic Studies,1
+National Institute of Economic Research,1
+National Biodiesel Board,1
+Radford University,1
+Research Network (United States),1
+Nanjing Audit University,1
+StataCorp (United States),1
+The London College,1
+The Hunterian,1
+The Centre for Health (New Zealand),1
+Texas A&M University – San Antonio,1
+Technische Universität Berlin,1
+Swissmedic,1
+Swedish House of Finance,1
+Swedish Academy,1
+Swarthmore College,1
+Stellenbosch University,1
+Statistics Canada,1
+State Street (United States),1
+State Duma,1
+Stanford Medicine,1
+Resources For The Future,1
+Southern University of Science and Technology,1
+Southern Methodist University,1
+Sirius University of Science and Technology,1
+Sheehan Medical (United States),1
+Shanghai University of International Business and Economics,1
+Seoul School of Integrated Sciences and Technologies,1
+Sejong University,1
+Science North,1
+Sapientia Hungarian University of Transylvania,1
+Sabancı Üniversitesi,1
+SGH Warsaw School of Economics,1
+Royal Swedish Academy of Sciences,1
+Rockwool Foundation,1
+Nanjing University of Finance and Economics,1
+Nagoya University,1
+Indian Health Service,1
+Institute of Criminology,1
+Keio University,1
+Karolinska Institutet,1
+Karlsruhe Institute of Technology,1
+Kadir Has University,1
+Johns Hopkins University SAIS Bologna Center,1
+Johannes Gutenberg University Mainz,1
+JPMorgan Chase & Co (United States),1
+Instituto de Saúde,1
+Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,1
+Instituto Superior de Gestão,1
+Institute of International Trade and Law,1
+"Institute of Economics, Academia Sinica",1
+Institute of Economic Research of the Slovak Academy of Sciences,1
+Institute for Applied Economic Research,1
+King Center,1
+Institute and Faculty of Actuaries,1
+Institut für Psychologische Psychotherapie,1
+Institut für Höhere Studien - Institute for Advanced Studies (IHS),1
+Institut de recherches économiques et sociales,1
+Institut de Política Econòmica i Governança,1
+Institut Polytechnique de Paris,1
+Institut National de la Statistique et des Etudes Economiques,1
+Institut Mines-Télécom Business School,1
+Insper,1
+Indiana University – Purdue University Indianapolis,1
+Indiana University Bloomington,1
+Indian Institute of Management Calcutta,1
+Indian Institute of Management Ahmedabad,1
+Kelly Services (United States),1
+King's College - North Carolina,1
+NIHR Research Delivery Network,1
+Loyola Marymount University,1
+Moon Express (United States),1
+Ministry of Economy,1
+Microsoft Research New England (United States),1
+Microsoft Research (India),1
+"Michigan Department of Environment, Great Lakes, and Energy",1
+Miami University,1
+Mexican Social Security Institute,1
+McMaster University,1
+McKinsey & Company (United States),1
+Marshall University,1
+Marshall B. Ketchum University,1
+Makerere University,1
+MUJHU Research Collaboration,1
+Louisiana State University,1
+King's College Hospital,1
+Loughborough University,1
+Los Angeles Police Department,1
+Linnaeus University,1
+Lingnan University,1
+Life Science Zurich,1
+Lehigh University,1
+Le Mans Université,1
+Laser Scan Engineering (United Kingdom),1
+Koç University,1
+Korea Labor Institute,1
+Korea Institute of Finance,1
+Koblenz University of Applied Sciences,1
+King's College School,1
+İzmir University of Economics,1

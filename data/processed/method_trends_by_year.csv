@@ -1,0 +1,44 @@
+method,year,paper_count
+Difference-in-Differences,2022,7
+Difference-in-Differences,2023,5
+Difference-in-Differences,2024,7
+Difference-in-Differences,2025,8
+Regression Discontinuity,2022,9
+Regression Discontinuity,2023,1
+Regression Discontinuity,2024,5
+Regression Discontinuity,2025,5
+Instrumental Variables,2022,9
+Instrumental Variables,2023,4
+Instrumental Variables,2024,5
+Instrumental Variables,2025,10
+Event Study,2023,5
+Event Study,2024,6
+Event Study,2025,4
+Synthetic Control,2022,1
+Synthetic Control,2023,2
+RCT / Field Experiment,2022,14
+RCT / Field Experiment,2023,10
+RCT / Field Experiment,2024,22
+RCT / Field Experiment,2025,15
+Natural / Quasi-Experiment,2022,9
+Natural / Quasi-Experiment,2023,6
+Natural / Quasi-Experiment,2024,7
+Natural / Quasi-Experiment,2025,6
+Structural Estimation / DSGE,2022,11
+Structural Estimation / DSGE,2023,25
+Structural Estimation / DSGE,2024,18
+Structural Estimation / DSGE,2025,15
+Time Series (VAR/Local Proj.),2022,1
+Time Series (VAR/Local Proj.),2023,4
+Time Series (VAR/Local Proj.),2024,1
+Time Series (VAR/Local Proj.),2025,1
+Machine Learning / Text-as-Data,2022,2
+Machine Learning / Text-as-Data,2023,1
+Machine Learning / Text-as-Data,2024,3
+Machine Learning / Text-as-Data,2025,6
+Bayesian Methods,2022,2
+Bayesian Methods,2023,1
+Panel Data / Fixed Effects,2022,4
+Panel Data / Fixed Effects,2023,7
+Panel Data / Fixed Effects,2024,12
+Panel Data / Fixed Effects,2025,4

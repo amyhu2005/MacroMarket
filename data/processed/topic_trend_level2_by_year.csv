@@ -1,0 +1,101 @@
+year,level1,level2,paper_count
+2022,Applied,Corporate & Household Finance,27
+2023,Applied,Corporate & Household Finance,23
+2024,Applied,Corporate & Household Finance,24
+2025,Applied,Corporate & Household Finance,14
+2022,Applied,Development Economics,25
+2023,Applied,Development Economics,35
+2024,Applied,Development Economics,29
+2025,Applied,Development Economics,23
+2022,Applied,Economic History,6
+2023,Applied,Economic History,4
+2024,Applied,Economic History,3
+2025,Applied,Economic History,5
+2022,Applied,Education Economics,22
+2023,Applied,Education Economics,13
+2024,Applied,Education Economics,17
+2025,Applied,Education Economics,18
+2022,Applied,Environmental & Energy Economics,12
+2023,Applied,Environmental & Energy Economics,14
+2024,Applied,Environmental & Energy Economics,15
+2025,Applied,Environmental & Energy Economics,18
+2022,Applied,Health Economics,13
+2023,Applied,Health Economics,18
+2024,Applied,Health Economics,24
+2025,Applied,Health Economics,21
+2022,Applied,International Trade,7
+2023,Applied,International Trade,20
+2024,Applied,International Trade,18
+2025,Applied,International Trade,20
+2022,Applied,Labor Economics,37
+2023,Applied,Labor Economics,43
+2024,Applied,Labor Economics,49
+2025,Applied,Labor Economics,52
+2022,Applied,Other / Interdisciplinary,24
+2023,Applied,Other / Interdisciplinary,29
+2024,Applied,Other / Interdisciplinary,43
+2025,Applied,Other / Interdisciplinary,38
+2022,Applied,Political Economy & Governance,25
+2023,Applied,Political Economy & Governance,18
+2024,Applied,Political Economy & Governance,36
+2025,Applied,Political Economy & Governance,41
+2022,Applied,Public Finance & Taxation,10
+2023,Applied,Public Finance & Taxation,7
+2024,Applied,Public Finance & Taxation,8
+2025,Applied,Public Finance & Taxation,2
+2022,Applied,Urban & Regional Economics,4
+2023,Applied,Urban & Regional Economics,12
+2024,Applied,Urban & Regional Economics,8
+2025,Applied,Urban & Regional Economics,14
+2022,Econometrics,Causal Inference & Identification,9
+2023,Econometrics,Causal Inference & Identification,6
+2024,Econometrics,Causal Inference & Identification,2
+2025,Econometrics,Causal Inference & Identification,9
+2022,Econometrics,Machine Learning in Economics,4
+2023,Econometrics,Machine Learning in Economics,1
+2024,Econometrics,Machine Learning in Economics,6
+2025,Econometrics,Machine Learning in Economics,8
+2022,Econometrics,Statistical & Bayesian Methods,7
+2023,Econometrics,Statistical & Bayesian Methods,5
+2024,Econometrics,Statistical & Bayesian Methods,10
+2025,Econometrics,Statistical & Bayesian Methods,12
+2022,Econometrics,Time Series & Panel Data Methods,1
+2023,Econometrics,Time Series & Panel Data Methods,2
+2024,Econometrics,Time Series & Panel Data Methods,4
+2025,Econometrics,Time Series & Panel Data Methods,2
+2022,Macro,Business Cycles & Growth,6
+2023,Macro,Business Cycles & Growth,12
+2024,Macro,Business Cycles & Growth,12
+2025,Macro,Business Cycles & Growth,7
+2022,Macro,Financial Markets & Stability,29
+2023,Macro,Financial Markets & Stability,44
+2024,Macro,Financial Markets & Stability,32
+2025,Macro,Financial Markets & Stability,46
+2022,Macro,Fiscal Policy,20
+2023,Macro,Fiscal Policy,24
+2024,Macro,Fiscal Policy,17
+2025,Macro,Fiscal Policy,17
+2022,Macro,Monetary Policy & Central Banking,9
+2023,Macro,Monetary Policy & Central Banking,25
+2024,Macro,Monetary Policy & Central Banking,12
+2025,Macro,Monetary Policy & Central Banking,16
+2022,Micro,Auctions & Market Design,26
+2023,Micro,Auctions & Market Design,26
+2024,Micro,Auctions & Market Design,12
+2025,Micro,Auctions & Market Design,16
+2022,Micro,Behavioral & Experimental Economics,26
+2023,Micro,Behavioral & Experimental Economics,20
+2024,Micro,Behavioral & Experimental Economics,22
+2025,Micro,Behavioral & Experimental Economics,10
+2022,Micro,Game Theory & Mechanism Design,18
+2023,Micro,Game Theory & Mechanism Design,10
+2024,Micro,Game Theory & Mechanism Design,22
+2025,Micro,Game Theory & Mechanism Design,15
+2022,Micro,General Economic Theory,36
+2023,Micro,General Economic Theory,31
+2024,Micro,General Economic Theory,21
+2025,Micro,General Economic Theory,15
+2022,Micro,Industrial Organization & Competition,25
+2023,Micro,Industrial Organization & Competition,22
+2024,Micro,Industrial Organization & Competition,23
+2025,Micro,Industrial Organization & Competition,28

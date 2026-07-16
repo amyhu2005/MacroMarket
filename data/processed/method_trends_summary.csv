@@ -1,0 +1,13 @@
+method,2022,2023,2024,2025,total,early_2022_23,late_2024_25,growth_rate_pct
+Structural Estimation / DSGE,11.0,25.0,18.0,15.0,69.0,36.0,33.0,-8.7
+RCT / Field Experiment,14.0,10.0,22.0,15.0,61.0,24.0,37.0,42.6
+Instrumental Variables,9.0,4.0,5.0,10.0,28.0,13.0,15.0,14.3
+Natural / Quasi-Experiment,9.0,6.0,7.0,6.0,28.0,15.0,13.0,-14.3
+Difference-in-Differences,7.0,5.0,7.0,8.0,27.0,12.0,15.0,22.2
+Panel Data / Fixed Effects,4.0,7.0,12.0,4.0,27.0,11.0,16.0,37.0
+Regression Discontinuity,9.0,1.0,5.0,5.0,20.0,10.0,10.0,0.0
+Event Study,0.0,5.0,6.0,4.0,15.0,5.0,10.0,66.7
+Machine Learning / Text-as-Data,2.0,1.0,3.0,6.0,12.0,3.0,9.0,100.0
+Time Series (VAR/Local Proj.),1.0,4.0,1.0,1.0,7.0,5.0,2.0,-85.7
+Bayesian Methods,2.0,1.0,0.0,0.0,3.0,3.0,0.0,-200.0
+Synthetic Control,1.0,2.0,0.0,0.0,3.0,3.0,0.0,-200.0

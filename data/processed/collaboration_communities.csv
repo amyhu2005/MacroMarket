@@ -1,0 +1,356 @@
+community_id,size,top_institutions,top_topics
+0,86,"National Bureau of Economic Research (11), Center for Economic and Policy Research (9), Stanford University (8)","Macro / Financial Markets & Stability (31), Applied / Labor Economics (21), Applied / Political Economy & Governance (13)"
+1,78,"University of Oxford (6), University of Rochester (6), University of Chicago (6)","Applied / Labor Economics (21), Applied / Development Economics (17), Micro / Industrial Organization & Competition (11)"
+2,68,"University of California, Berkeley (15), National Bureau of Economic Research (10), University of California San Diego (8)","Applied / Labor Economics (19), Applied / Development Economics (17), Macro / Fiscal Policy (12)"
+3,67,"Yale University (7), Columbia University (6), Massachusetts Institute of Technology (6)","Micro / Game Theory & Mechanism Design (21), Micro / Behavioral & Experimental Economics (16), Macro / Financial Markets & Stability (12)"
+4,67,"Center for Economic and Policy Research (7), National Bureau of Economic Research (7), Massachusetts Institute of Technology (6)","Micro / Industrial Organization & Competition (13), Applied / Political Economy & Governance (13), Micro / General Economic Theory (12)"
+5,66,"Center for Economic and Policy Research (13), Bocconi University (8), National Bureau of Economic Research (6)","Applied / Labor Economics (20), Macro / Fiscal Policy (14), Applied / Development Economics (12)"
+6,65,"University of Pennsylvania (8), Federal Reserve (8), Chinese University of Hong Kong (8)","Macro / Financial Markets & Stability (24), Micro / General Economic Theory (16), Macro / Fiscal Policy (11)"
+7,63,"University of Chicago (8), National Bureau of Economic Research (7), Stanford University (3)","Applied / Health Economics (16), Macro / Financial Markets & Stability (11), Econometrics / Statistical & Bayesian Methods (8)"
+8,63,"National Bureau of Economic Research (7), Harvard University (6), Massachusetts Institute of Technology (4)","Applied / Health Economics (47), Applied / Urban & Regional Economics (9), Macro / Fiscal Policy (4)"
+9,54,"National Bureau of Economic Research (15), Stanford University (9), Massachusetts Institute of Technology (6)","Micro / Behavioral & Experimental Economics (14), Applied / Corporate & Household Finance (13), Applied / Labor Economics (10)"
+10,52,"National Bureau of Economic Research (15), Center for Economic and Policy Research (7), University of California, Berkeley (7)","Macro / Monetary Policy & Central Banking (23), Micro / General Economic Theory (14), Macro / Financial Markets & Stability (11)"
+11,44,"Princeton University (10), University of California, Berkeley (8), National Bureau of Economic Research (5)","Applied / Political Economy & Governance (12), Applied / International Trade (7), Applied / Public Finance & Taxation (6)"
+12,43,"University of Chicago (5), Stanford University (5), National Bureau of Economic Research (4)","Macro / Monetary Policy & Central Banking (10), Applied / Health Economics (9), Micro / Auctions & Market Design (9)"
+13,33,"National Bureau of Economic Research (7), Brown University (6), Harvard University (5)","Applied / Political Economy & Governance (12), Applied / Corporate & Household Finance (7), Applied / Health Economics (5)"
+14,31,"Center for Economic and Policy Research (7), National Bureau of Economic Research (5), Dartmouth College (4)","Applied / Labor Economics (21), Applied / Urban & Regional Economics (7), Micro / Industrial Organization & Competition (5)"
+15,29,"University of Wisconsin–Madison (3), University of Georgia (3), Yale University (3)","Micro / Industrial Organization & Competition (12), Applied / Education Economics (8), Micro / Auctions & Market Design (7)"
+16,28,"Institute for Fiscal Studies (4), University of Oxford (2), Chinese University of Hong Kong (2)","Applied / Labor Economics (8), Applied / Health Economics (8), Applied / Education Economics (6)"
+17,27,"National Bureau of Economic Research (7), Duke University (4), New York University (3)","Macro / Fiscal Policy (8), Micro / General Economic Theory (7), Macro / Financial Markets & Stability (7)"
+18,23,"Massachusetts Institute of Technology (3), Universitas Gadjah Mada (3), ADA University (3)","Applied / Development Economics (6), Applied / Labor Economics (5), Micro / Behavioral & Experimental Economics (4)"
+19,21,"University of Chicago (9), National Bureau of Economic Research (4), Universidad EAFIT (2)","Applied / Education Economics (12), Applied / Health Economics (5), Applied / Political Economy & Governance (4)"
+20,21,"National Bureau of Economic Research (9), University of California, Berkeley (4), University of California, Los Angeles (3)","Applied / Environmental & Energy Economics (9), Applied / Health Economics (6), Applied / Political Economy & Governance (5)"
+22,20,"National Bureau of Economic Research (5), University of California, Berkeley (5), Massachusetts Institute of Technology (3)","Applied / International Trade (9), Applied / Development Economics (7), Applied / Public Finance & Taxation (4)"
+21,20,"Cornell University (5), Harvard University (4), Center for Economic and Policy Research (3)","Micro / Industrial Organization & Competition (9), Applied / International Trade (6), Applied / Development Economics (4)"
+23,18,"Pennsylvania State University (4), Northwestern University (3), London School of Economics and Political Science (2)","Micro / Auctions & Market Design (9), Micro / Game Theory & Mechanism Design (6), Applied / Education Economics (5)"
+24,15,"University of British Columbia (5), Seoul National University (4), The University of Tokyo (4)","Applied / Corporate & Household Finance (7), Micro / Auctions & Market Design (6), Micro / Game Theory & Mechanism Design (5)"
+25,15,"National Bureau of Economic Research (5), Yale University (2), University of Nebraska–Lincoln (1)","Applied / Urban & Regional Economics (9), Applied / Political Economy & Governance (7), Applied / Labor Economics (3)"
+26,14,"Center for Economic and Policy Research (4), Stanford University (2), BREAD (Bureau for Research and Economic Analysis of Development) (2)","Applied / Political Economy & Governance (7), Applied / Development Economics (4), Applied / Labor Economics (3)"
+27,14,"National Bureau of Economic Research (3), Stanford University (2), Columbia University (2)","Macro / Financial Markets & Stability (10), Macro / Monetary Policy & Central Banking (5), Applied / Corporate & Household Finance (4)"
+28,13,"National Bureau of Economic Research (3), University of Rochester (2), Bureau of Economic Analysis (2)","Applied / Public Finance & Taxation (6), Applied / International Trade (5), Macro / Fiscal Policy (5)"
+29,12,"National Bureau of Economic Research (3), Princeton University (3), Columbia University (2)","Applied / Political Economy & Governance (5), Applied / International Trade (4), Applied / Education Economics (3)"
+30,12,"Institut d'Etudes Politiques de Paris (1), Center for Economic and Policy Research (1), University College London (1)","Applied / Labor Economics (6), Applied / Corporate & Household Finance (4), Applied / Health Economics (3)"
+34,11,"University of Michigan (3), Fafo Foundation (3), World Bank (2)","Applied / Political Economy & Governance (6), Applied / Corporate & Household Finance (4), Applied / Development Economics (2)"
+35,11,"Instituto Tecnológico Autónomo de México (2), Michigan State University (2), Mexican Social Security Institute (1)","Applied / Health Economics (5), Macro / Financial Markets & Stability (5), Applied / Political Economy & Governance (3)"
+32,11,"University of California, Los Angeles (5), Harvard University (2), Tobacco Research Institute (2)","Macro / Monetary Policy & Central Banking (4), Applied / Development Economics (3), Micro / General Economic Theory (3)"
+33,11,"Collegio Carlo Alberto (2), University of Turin (2), Escola Brasileira de Economia e Finanças (2)","Micro / Auctions & Market Design (5), Applied / Labor Economics (4), Micro / General Economic Theory (3)"
+31,11,"Princeton University (3), University of Bristol (3), Stanford University (3)","Macro / Monetary Policy & Central Banking (5), Micro / General Economic Theory (3), Macro / Fiscal Policy (3)"
+36,10,"Stockholm University (3), University of California, Berkeley (2), Harvard University (1)","Applied / Political Economy & Governance (8), Applied / Development Economics (2), Applied / Environmental & Energy Economics (2)"
+37,10,"National Bureau of Economic Research (5), Center for Economic and Policy Research (3), BREAD (Bureau for Research and Economic Analysis of Development) (3)","Applied / Education Economics (5), Applied / Labor Economics (4), Applied / Public Finance & Taxation (2)"
+38,10,"University of California, Berkeley (3), National Bureau of Economic Research (2), Stanford University (1)","Applied / Health Economics (5), Macro / Business Cycles & Growth (4), Micro / Industrial Organization & Competition (3)"
+45,9,"Georgetown University (3), University of Copenhagen (2), Yale University (1)","Applied / Environmental & Energy Economics (5), Applied / Other / Interdisciplinary (4), Applied / Development Economics (2)"
+43,9,"Northwestern University (2), Center for Economic and Policy Research (2), Centre for Economic Policy Research (2)","Micro / General Economic Theory (5), Applied / Corporate & Household Finance (3), Macro / Financial Markets & Stability (3)"
+47,9,"University of California, Berkeley (4), University of Hong Kong (3), Center for Economic and Policy Research (3)","Applied / Labor Economics (5), Applied / International Trade (3), Applied / Development Economics (3)"
+44,9,"Centre for Economic Policy Research (4), Center for Economic and Policy Research (3), Princeton University (2)","Micro / Industrial Organization & Competition (5), Micro / Game Theory & Mechanism Design (3), Micro / Auctions & Market Design (2)"
+46,9,"University of Chicago (2), University of California, Berkeley (2), University of Newcastle Australia (1)","Macro / Fiscal Policy (5), Applied / Political Economy & Governance (5)"
+42,9,"Center for Economic and Policy Research (3), Bank of Spain (2), University of Pennsylvania (2)","Applied / Development Economics (4), Macro / Monetary Policy & Central Banking (4), Econometrics / Time Series & Panel Data Methods (3)"
+40,9,"Kiel Institute for the World Economy (3), University of Bonn (2), Centre for Economic Policy Research (2)","Applied / Labor Economics (5), Applied / Corporate & Household Finance (4), Applied / Political Economy & Governance (3)"
+41,9,"National Bureau of Economic Research (3), University of California, Berkeley (1), Princeton University (1)","Macro / Financial Markets & Stability (6), Macro / Monetary Policy & Central Banking (4), Applied / Labor Economics (1)"
+39,9,"Toulouse School of Economics (2), Centre for Economic Policy Research (2), Michigan State University (1)","Micro / Industrial Organization & Competition (5), Applied / Health Economics (4), Micro / Behavioral & Experimental Economics (2)"
+54,8,"Aarhus University (3), University of Chicago (2), University of Southern California (1)","Applied / Health Economics (7), Applied / Education Economics (3)"
+60,8,"National Bureau of Economic Research (3), W.E. Upjohn Institute for Employment Research (2), University of Chicago (2)","Applied / Labor Economics (6), Applied / Education Economics (4)"
+59,8,"Northwestern University (2), University of Hong Kong (1), University of California, Los Angeles (1)","Applied / Labor Economics (5), Econometrics / Machine Learning in Economics (3), Applied / Economic History (2)"
+58,8,"Stanford University (3), Her Majesty's Revenue and Customs (1), University of California, Los Angeles (1)",Applied / Public Finance & Taxation (8)
+48,8,"Bank of England (4), Center for Economic and Policy Research (2), University of Oxford (1)","Macro / Monetary Policy & Central Banking (5), Macro / Financial Markets & Stability (3), Micro / General Economic Theory (2)"
+55,8,"United States Census Bureau (2), University of Maryland, College Park (1), London School of Economics and Political Science (1)","Micro / Industrial Organization & Competition (8), Applied / Labor Economics (1)"
+57,8,"University of Rochester (2), Pennsylvania State University (2), University of Essex (1)","Micro / Auctions & Market Design (3), Micro / Game Theory & Mechanism Design (3), Applied / Political Economy & Governance (3)"
+53,8,"Universität Innsbruck (2), University of Essex (1), University of Cologne (1)","Applied / Labor Economics (5), Micro / Behavioral & Experimental Economics (2), Applied / Education Economics (2)"
+52,8,"The University of Melbourne (4), University of Liverpool (1), Centre for Economic Policy Research (1)","Micro / Industrial Organization & Competition (7), Micro / Auctions & Market Design (2)"
+51,8,"National Bureau of Economic Research (2), Boston University (2), University of Mannheim (1)","Applied / Labor Economics (7), Macro / Business Cycles & Growth (2)"
+50,8,"Ecogenomics (Japan) (1), Federal Reserve Bank of St. Louis (1), George Washington University (1)","Applied / Corporate & Household Finance (6), Macro / Fiscal Policy (4)"
+49,8,"Centre de Recerca en Economia Internacional (3), Barcelona School of Economics (3), Ecolab (United Kingdom) (2)","Macro / Financial Markets & Stability (6), Micro / General Economic Theory (5)"
+56,8,"Harvard University (3), Dana-Farber/Harvard Cancer Center (2), Heidelberg University (1)","Applied / Other / Interdisciplinary (5), Micro / Behavioral & Experimental Economics (5), Macro / Financial Markets & Stability (3)"
+68,7,"University of California, Berkeley (7), University of Chicago (4), University of Southern California (3)","Applied / Education Economics (4), Econometrics / Causal Inference & Identification (4)"
+74,7,"Federal Reserve Bank of Minneapolis (2), Universidad Torcuato Di Tella (2), Federal Reserve Board of Governors (1)","Macro / Fiscal Policy (5), Macro / Financial Markets & Stability (4), Macro / Monetary Policy & Central Banking (2)"
+73,7,"University of Chicago (4), Columbia University (1), University of Illinois Chicago (1)","Applied / Labor Economics (5), Applied / Education Economics (3)"
+72,7,"Indiana University (3), National Bureau of Economic Research (2), Renmin University of China (1)","Applied / Environmental & Energy Economics (5), Applied / Development Economics (3)"
+71,7,"Institute for Fiscal Studies (3), University College London (3), Norwegian School of Economics (3)","Applied / Development Economics (5), Applied / Urban & Regional Economics (3)"
+70,7,"Duke University (6), United States Department of Labor (4), National Bureau of Economic Research (4)",Applied / Education Economics (7)
+69,7,"National Bureau of Economic Research (3), University of Chicago (1), Federal Reserve Bank of New York (1)","Applied / Other / Interdisciplinary (5), Applied / Labor Economics (3)"
+67,7,"University of Chicago (1), University of Mannheim (1), Arizona State University (1)","Micro / Behavioral & Experimental Economics (5), Applied / Labor Economics (3)"
+66,7,"Bloomberg (United States) (4), Harvard University (4), Dana-Farber/Harvard Cancer Center (4)","Macro / Monetary Policy & Central Banking (6), Macro / Financial Markets & Stability (3)"
+64,7,"Center for Economic and Policy Research (2), Northwestern University (1), University of Warwick (1)","Applied / Development Economics (5), Macro / Business Cycles & Growth (3)"
+63,7,"National Bureau of Economic Research (4), Center for Economic and Policy Research (2), IESE Business School (2)","Applied / Corporate & Household Finance (4), Macro / Financial Markets & Stability (3), Micro / Industrial Organization & Competition (2)"
+62,7,"National Bureau of Economic Research (2), The University of Texas at Austin (1), New York University (1)","Micro / Industrial Organization & Competition (5), Applied / Corporate & Household Finance (3)"
+61,7,"World Bank (2), Université du Québec à Montréal (1), BREAD (Bureau for Research and Economic Analysis of Development) (1)","Applied / Labor Economics (4), Applied / Urban & Regional Economics (4)"
+65,7,"New York University (3), University of Copenhagen (2), Centre for Economic Policy Research (1)","Applied / Corporate & Household Finance (5), Econometrics / Machine Learning in Economics (3), Micro / Behavioral & Experimental Economics (1)"
+97,6,"New York University (4), Center for Economic and Policy Research (2), European Corporate Governance Institute (1)","Macro / Monetary Policy & Central Banking (4), Macro / Business Cycles & Growth (3)"
+90,6,"University of South Carolina (1), Fundação Getulio Vargas (1), Federal Reserve Bank of Philadelphia (1)",Micro / Industrial Organization & Competition (6)
+92,6,"University of Illinois Urbana-Champaign (2), Northwestern University (2), London School of Economics and Political Science (1)","Applied / Development Economics (4), Applied / Corporate & Household Finance (3)"
+93,6,"University of Ottawa (2), University of Pittsburgh (1), University of Rochester (1)","Applied / Other / Interdisciplinary (4), Econometrics / Causal Inference & Identification (3)"
+94,6,"Federal Reserve Board of Governors (2), University of Chicago (1), University of Notre Dame (1)",Applied / Corporate & Household Finance (6)
+95,6,"Brigham Young University (4), Emory University (4), Syracuse University (1)","Micro / Behavioral & Experimental Economics (4), Applied / Labor Economics (3)"
+96,6,"Economic Policy Institute (2), Universidad Autónoma de Madrid (2), Office of International Affairs (1)",Applied / Political Economy & Governance (6)
+100,6,"Erasmus University Rotterdam (2), Institute for Fiscal Studies (1), University of Bristol (1)",Applied / Health Economics (6)
+98,6,"Columbia University (2), University of Southern California (1), California Southern University (1)","Applied / Political Economy & Governance (3), Applied / Development Economics (3), Micro / Auctions & Market Design (2)"
+99,6,"London School of Economics and Political Science (1), Graduate Institute of International and Development Studies (1), Center for Economic and Policy Research (1)","Applied / Labor Economics (4), Applied / International Trade (3)"
+101,6,"Olive View-UCLA Medical Center (1), Ross School (1), Federal Trade Commission (1)",Applied / Development Economics (6)
+102,6,"National Bureau of Economic Research (3), University of Cambridge (3)","Applied / Corporate & Household Finance (4), Applied / Labor Economics (3)"
+103,6,"University of Rochester (1), University of Toronto (1), London School of Economics and Political Science (1)","Applied / Urban & Regional Economics (4), Macro / Financial Markets & Stability (3)"
+104,6,,Applied / Labor Economics (6)
+91,6,"National Bureau of Economic Research (3), Emory University (1), University of Victoria (1)","Macro / Financial Markets & Stability (4), Applied / Development Economics (3)"
+88,6,"Western University (3), Carnegie Mellon University (1), Berea College (1)","Applied / Education Economics (4), Micro / Auctions & Market Design (3)"
+89,6,"University of Chicago (3), University of Virginia (2), University of Missouri (1)","Applied / Other / Interdisciplinary (3), Applied / Corporate & Household Finance (2), Applied / Development Economics (2)"
+80,6,"Centre for Economic Policy Research (2), University of Oxford (1), Arizona State University (1)",Macro / Financial Markets & Stability (6)
+75,6,"Tinbergen Institute (2), University of Amsterdam (2), University of Geneva (1)","Applied / Other / Interdisciplinary (5), Micro / Behavioral & Experimental Economics (3)"
+76,6,"Center for Economic and Policy Research (3), University of Arizona (3), Cornell University (3)",Micro / Industrial Organization & Competition (6)
+77,6,"York University (2), University of Toronto (2), National Bureau of Economic Research (1)",Applied / Development Economics (6)
+78,6,"BI Norwegian Business School (2), University of California, Davis (1), The University of Texas at Austin (1)","Macro / Financial Markets & Stability (4), Macro / Monetary Policy & Central Banking (3)"
+79,6,"National Bureau of Economic Research (2), Harvard University (2), University of Michigan (2)",Applied / Health Economics (6)
+87,6,"Federal Reserve Bank of Chicago (1), Northwestern University (1), National Bureau of Economic Research (1)","Applied / Labor Economics (3), Micro / Auctions & Market Design (3), Applied / Other / Interdisciplinary (2)"
+81,6,"University of Michigan (1), Claremont McKenna College (1), Copenhagen Business School (1)","Applied / Corporate & Household Finance (4), Macro / Financial Markets & Stability (3)"
+83,6,"University of Pittsburgh (2), University of Southern California (1), Center for Economic and Policy Research (1)","Applied / Public Finance & Taxation (4), Macro / Fiscal Policy (3)"
+84,6,"Queen Mary University of London (2), Instituto Tecnológico Autónomo de México (1), Deakin University (1)","Applied / Education Economics (5), Micro / Game Theory & Mechanism Design (3)"
+85,6,"Université de Montréal (3), Health Education Council (1), Centre Pour La Recherche Economique et ses Applications (1)",Applied / Education Economics (6)
+86,6,"UNSW Sydney (3), Centre for Economic Policy Research (3), Institut d'Etudes Politiques de Paris (1)","Applied / Development Economics (4), Applied / Political Economy & Governance (3)"
+82,6,"National Bureau of Economic Research (3), Oberlin College (1), Center for Economic and Policy Research (1)","Applied / Health Economics (5), Applied / Economic History (2)"
+129,5,"University of Maryland, College Park (1), Duke University (1), United States Census Bureau (1)","Applied / Environmental & Energy Economics (3), Applied / Labor Economics (3)"
+123,5,"Princeton University (1), Federal Reserve Bank of New York (1), Tsinghua University (1)","Econometrics / Machine Learning in Economics (4), Applied / Corporate & Household Finance (2)"
+124,5,"University of Essex (3), Institució Catalana de Recerca i Estudis Avançats (3), Barcelona School of Economics (3)","Applied / International Trade (4), Applied / Labor Economics (4), Applied / Corporate & Household Finance (2)"
+125,5,"Koblenz University of Applied Sciences (5), Johannes Gutenberg University Mainz (5), University of Zurich (5)",Applied / Other / Interdisciplinary (5)
+126,5,"Yale University (2), New School (1)","Micro / Industrial Organization & Competition (5), Micro / Auctions & Market Design (2)"
+127,5,"University of Chicago (3), JPMorgan Chase & Co (United States) (2)","Applied / Labor Economics (5), Macro / Financial Markets & Stability (2)"
+128,5,"University of Wisconsin–Madison (1), Madison Group (United States) (1), University of California, Berkeley (1)","Micro / Behavioral & Experimental Economics (4), Micro / Industrial Organization & Competition (2)"
+132,5,"University of Southampton (2), Federal Reserve Bank of Atlanta (2), Emory University (2)","Econometrics / Machine Learning in Economics (3), Econometrics / Statistical & Bayesian Methods (3)"
+130,5,"University of California, Los Angeles (2), University of Rochester (1), Stockholm School of Economics (1)",Macro / Financial Markets & Stability (5)
+131,5,"Australian National University (2), Stanford University (1), City University of Hong Kong (1)","Macro / Business Cycles & Growth (3), Macro / Financial Markets & Stability (3)"
+121,5,"Monash University (5), Center for Economic and Policy Research (4), Economic Policy Institute (3)","Applied / Education Economics (4), Micro / Industrial Organization & Competition (3)"
+134,5,"Shanghai Jiao Tong University (1), Boston College (1), Rice University (1)","Applied / Education Economics (3), Applied / Political Economy & Governance (3)"
+135,5,"SGH Warsaw School of Economics (2), Humboldt-Universität zu Berlin (1), WZB Berlin Social Science Center (1)",Applied / Labor Economics (5)
+136,5,"University of California System (2), University of California, Berkeley (2), Columbia University (1)","Applied / Development Economics (3), Applied / Urban & Regional Economics (3)"
+138,5,"İzmir University of Economics (1), Norwegian School of Economics (1), University College London (1)","Applied / Labor Economics (3), Applied / Education Economics (3)"
+122,5,"Center for Economic and Policy Research (2), University of Bergamo (1), American University (1)",Applied / Development Economics (5)
+137,5,"Duke University (1), University of Oregon (1), University of Illinois Chicago (1)",Applied / Urban & Regional Economics (5)
+120,5,"Augsburg University (5), Ifo Institute for Economic Research (5), Tilburg University (5)",Micro / Behavioral & Experimental Economics (5)
+111,5,"Ludwig-Maximilians-Universität München (4), Pennsylvania State University (3), Hitotsubashi University (3)","Micro / Behavioral & Experimental Economics (4), Applied / Education Economics (3), Applied / Political Economy & Governance (3)"
+119,5,"New York University (2), Indiana University (2), Indiana University – Purdue University Indianapolis (1)",Applied / International Trade (5)
+105,5,"University of Virginia (2), Zhejiang University of Finance and Economics (1), Swiss Finance Institute (1)","Econometrics / Machine Learning in Economics (3), Macro / Financial Markets & Stability (3)"
+106,5,"Centre for European Economic Research (2), Center for Economic and Policy Research (2), Universitat Pompeu Fabra (1)",Applied / Labor Economics (5)
+107,5,"University of Chicago (5), New York University (3)","Econometrics / Time Series & Panel Data Methods (3), Econometrics / Statistical & Bayesian Methods (3)"
+108,5,"Copenhagen Business School (2), National University of Singapore (1), University of Pennsylvania (1)",Macro / Financial Markets & Stability (5)
+109,5,"National Bureau of Economic Research (3), University of Wisconsin–Madison (3), University of California, Los Angeles (3)","Applied / International Trade (3), Applied / Labor Economics (3)"
+110,5,"Hindustan Petroleum Corporation Limited (India) (1), University of Hong Kong (1), Center for Economic and Policy Research (1)","Applied / Development Economics (3), Applied / International Trade (3)"
+133,5,"London School of Economics and Political Science (2), Vanderbilt University (1), Florida State University (1)",Micro / Auctions & Market Design (5)
+112,5,"University of Bristol (1), Michigan Department of Environment, Great Lakes, and Energy (1), University of Michigan (1)","Applied / Labor Economics (5), Micro / General Economic Theory (2)"
+113,5,"University of Music Lausanne (1), University of Lausanne (1), Carnegie Mellon University (1)","Applied / Health Economics (3), Applied / Labor Economics (3)"
+114,5,"National University of Singapore (1), UNSW Sydney (1), The University of Melbourne (1)",Micro / Auctions & Market Design (5)
+115,5,"London School of Economics and Political Science (2), New York University (1), Peking University (1)","Macro / Financial Markets & Stability (3), Macro / Monetary Policy & Central Banking (2), Micro / General Economic Theory (2)"
+116,5,"National Bureau of Economic Research (2), New York University Abu Dhabi (1), Luxembourg Institute of Socio-Economic Research (1)",Applied / Labor Economics (5)
+117,5,"United States Department of the Treasury (1), Yale University (1), Banco Central de Chile (1)","Applied / Labor Economics (3), Applied / Education Economics (3)"
+118,5,"Kyoto University (1), Center for Economic and Policy Research (1), National Graduate Institute for Policy Studies (1)","Applied / Environmental & Energy Economics (3), Applied / Labor Economics (3)"
+186,4,"Imperial College London (2), University of Virginia (1), NIHR Imperial Biomedical Research Centre (1)",Applied / Environmental & Energy Economics (4)
+192,4,"Cornell University (3), University of Rochester (1)","Micro / Industrial Organization & Competition (4), Econometrics / Time Series & Panel Data Methods (1)"
+191,4,"Bank for International Settlements (4), Vrije Universiteit Amsterdam (4), De Nederlandsche Bank (4)",Macro / Business Cycles & Growth (4)
+190,4,"Economic Research Centre (4), University of Edinburgh (4), Nordic Institute for Studies in Innovation, Research and Education (3)",Applied / Labor Economics (4)
+189,4,"University of Southern Denmark (1), Miami University (1), Emory University (1)",Applied / Health Economics (4)
+188,4,"Duke University (4), University of Washington (4), Duke Kunshan University (4)",Applied / Environmental & Energy Economics (4)
+187,4,"University of Southampton (1), Center for Economic and Policy Research (1), Virginia Commonwealth University (1)",Applied / Labor Economics (4)
+183,4,"Massachusetts Institute of Technology (2), Utrecht University (1), Northwestern University (1)",Applied / Labor Economics (4)
+185,4,"RAND Corporation (1), Federal Reserve Bank of Chicago (1), United States Department of the Treasury (1)",Applied / Corporate & Household Finance (4)
+184,4,"Erasmus University Rotterdam (1), National Bureau of Economic Research (1)",Macro / Financial Markets & Stability (4)
+194,4,"University of British Columbia (3), Princeton University (1), Princeton Public Schools (1)",Applied / Political Economy & Governance (4)
+182,4,"Lahore University of Management Sciences (2), University of Oxford (1), Center for Islamic Studies (ISAM) (1)",Applied / Development Economics (4)
+181,4,"California Institute of Technology (2), Cornell University (2), Max Planck Institute for Behavioral Economics (1)","Micro / Game Theory & Mechanism Design (3), Micro / Auctions & Market Design (2)"
+180,4,"University of North Carolina at Chapel Hill (4), Inter-American Development Bank (4)",Applied / Labor Economics (4)
+179,4,"City, University of London (1), Università della Svizzera italiana (1), Centre de Recherche en Économie et Statistique (1)",Micro / Industrial Organization & Competition (4)
+178,4,"Northwestern University (2), Stony Brook University (1), Duke University (1)","Applied / Corporate & Household Finance (3), Micro / Auctions & Market Design (2)"
+193,4,"University of Zurich (2), Shanghai University of Finance and Economics (1), University of Leicester (1)",Micro / Behavioral & Experimental Economics (4)
+198,4,"International Monetary Fund (3), Universidad Católica Santo Domingo (1), Central Bank of Ireland (1)",Applied / Labor Economics (4)
+195,4,"University of Minnesota (2), Columbia University (1), Rice University (1)",Macro / Financial Markets & Stability (4)
+196,4,"Tel Aviv University (2), Yale University (1), Google (United States) (1)",Applied / Political Economy & Governance (4)
+212,4,"Chapman University (1), University of Colorado Boulder (1), University of Colorado System (1)",Econometrics / Machine Learning in Economics (4)
+211,4,"University of California, Merced (1), Federal Reserve Bank of Philadelphia (1), Trinity College (1)",Macro / Financial Markets & Stability (4)
+210,4,,"Applied / Education Economics (4), Applied / Labor Economics (1)"
+209,4,"University of Virginia (1), Boston College (1), University of Zurich (1)","Micro / Auctions & Market Design (3), Micro / Game Theory & Mechanism Design (2)"
+208,4,"London Business School (2), London School of Economics and Political Science (1), University of California, Berkeley (1)","Macro / Financial Markets & Stability (3), Macro / Fiscal Policy (2)"
+207,4,,Applied / Labor Economics (4)
+206,4,"Princeton University (4), Harvard University (1), Columbia University (1)",Macro / Monetary Policy & Central Banking (4)
+205,4,"Banco de Portugal (2), Universidade Nova de Lisboa (1)",Macro / Financial Markets & Stability (4)
+204,4,"NIHR Research Delivery Network (2), University of Warwick (1), University of Leeds (1)",Macro / Financial Markets & Stability (4)
+202,4,"University of Copenhagen (3), University of Exeter (1), University of Bologna (1)",Econometrics / Statistical & Bayesian Methods (4)
+201,4,"Stanford University (1), Yale University (1)","Applied / Health Economics (3), Micro / Industrial Organization & Competition (2)"
+200,4,"University of Virginia (1), Georgetown University (1)",Micro / Industrial Organization & Competition (4)
+199,4,"Massachusetts Institute of Technology (1), Boston University (1), Emory University (1)",Applied / Health Economics (4)
+176,4,"Australian National University (2), National University (1), The University of Sydney (1)",Micro / Behavioral & Experimental Economics (4)
+197,4,"African Center for Economic Transformation (1), University of Amsterdam (1), Northwestern University (1)",Applied / Development Economics (4)
+203,4,"University of British Columbia (2), Duke University (1), University of California San Diego (1)",Applied / Other / Interdisciplinary (4)
+177,4,"University of Toronto (2), Western University (1), Universidad de Los Andes, Chile (1)",Applied / International Trade (4)
+175,4,"American Enterprise Institute (2), National Bureau of Economic Research (1), Federal Reserve Board of Governors (1)",Applied / Development Economics (4)
+147,4,"Princeton University (1), Center for Economic and Policy Research (1), University of Chicago (1)","Macro / Financial Markets & Stability (3), Macro / Monetary Policy & Central Banking (2)"
+154,4,"Washington University in St. Louis (2), Central Bank of Brazil (1), Bank for International Settlements (1)",Applied / Development Economics (4)
+153,4,"National Bureau of Economic Research (1), Duke University (1), Boston College (1)","Macro / Monetary Policy & Central Banking (3), Micro / General Economic Theory (2)"
+152,4,"Statistics Norway (1), University of Oslo (1), McGill University (1)","Applied / Education Economics (3), Applied / Political Economy & Governance (2)"
+151,4,"Harvard University (2), University of Chicago (1), McKinsey & Company (United States) (1)",Applied / Health Economics (4)
+150,4,"University of Toronto (2), Natural Resources Canada (1), Pontifícia Universidade Católica do Rio de Janeiro (1)",Applied / Environmental & Energy Economics (4)
+149,4,"Federal Reserve Bank of Philadelphia (2), University of Pennsylvania (1), New York University (1)",Macro / Fiscal Policy (4)
+148,4,"National Bureau of Economic Research (3), Abdul Latif Jameel Poverty Action Lab (3), Harvard University (1)","Applied / Labor Economics (3), Micro / Behavioral & Experimental Economics (3), Applied / Corporate & Household Finance (1)"
+146,4,"Goethe University Frankfurt (2), Goethe-Institute United Kingdom (2), Arcon (United States) (1)",Applied / Labor Economics (4)
+156,4,"University of Hong Kong (1), University of Bonn (1), Economic Policy Institute (1)","Micro / Auctions & Market Design (3), Micro / Game Theory & Mechanism Design (2)"
+145,4,"National Bureau of Economic Research (3), University of Oxford (3), Deutsche Bundesbank (3)","Applied / Public Finance & Taxation (3), Macro / Fiscal Policy (3)"
+144,4,"Vrije Universiteit Amsterdam (2), University of Amsterdam (2)",Applied / Education Economics (4)
+143,4,"University of St.Gallen (1), Center for Economic and Policy Research (1), University of Oxford (1)","Macro / Business Cycles & Growth (3), Micro / General Economic Theory (2)"
+142,4,"University of Toronto (1), Carleton College (1), Carleton University (1)","Applied / Environmental & Energy Economics (3), Applied / Labor Economics (2), Econometrics / Statistical & Bayesian Methods (2)"
+141,4,"University of California, Davis (2), Federal Reserve Bank of Cleveland (1), Brandeis University (1)","Macro / Monetary Policy & Central Banking (4), Macro / Financial Markets & Stability (1)"
+139,4,"National Sun Yat-sen University (1), Sun Yat-sen University (1), Universitat Pompeu Fabra (1)",Macro / Financial Markets & Stability (4)
+174,4,"Federal Reserve Bank of Richmond (1), Federal Reserve Bank of San Francisco (1), University of Richmond (1)",Macro / Fiscal Policy (4)
+155,4,"Princeton University (1), Columbia University (1), Electronic Product Services (Czechia) (1)",Econometrics / Causal Inference & Identification (4)
+140,4,"United States Census Bureau (1), University of Notre Dame (1), Mitchell Institute (1)","Applied / Labor Economics (3), Applied / Education Economics (2)"
+157,4,"Virginia Commonwealth University (1), Princeton University (1), Banco Central de Chile (1)","Applied / Corporate & Household Finance (3), Macro / Business Cycles & Growth (2)"
+166,4,"University of Illinois Urbana-Champaign (2), University of Warwick (1), University of Hong Kong (1)","Macro / Fiscal Policy (3), Micro / Auctions & Market Design (2)"
+158,4,"Brown University (3), Hong Kong University of Science and Technology (1), University of Hong Kong (1)","Micro / Auctions & Market Design (3), Applied / Other / Interdisciplinary (2)"
+173,4,"Columbia University (1), University of Florida (1), New York University (1)",Applied / Education Economics (4)
+171,4,"Center for Interuniversity Research and Analysis on Organizations (2), RAND Corporation (1), Université du Québec à Montréal (1)",Applied / Health Economics (4)
+170,4,"National Bureau of Economic Research (2), Federal Reserve Board of Governors (1), Escola de Economia de São Paulo (1)",Applied / International Trade (4)
+169,4,"University of Chicago (3), University of California San Diego (1)","Econometrics / Machine Learning in Economics (3), Micro / Game Theory & Mechanism Design (3), Micro / Auctions & Market Design (2)"
+168,4,"IPAG Business School (1), Paris School of Economics (1), Adam Smith Institute (1)",Micro / General Economic Theory (4)
+167,4,"Duke University (1), World Bank (1), Stellenbosch University (1)",Applied / Labor Economics (4)
+172,4,"University of Chicago (1), Georgetown University (1), Utrecht University (1)",Applied / Development Economics (4)
+165,4,"Universidad Carlos III de Madrid (2), University of Alicante (1)",Applied / Education Economics (4)
+163,4,"World Bank (2), World Bank Group (2), Université Clermont Auvergne (1)",Applied / Development Economics (4)
+162,4,"Stockholm University (2), Makerere University (1), Università Cattolica del Sacro Cuore (1)",Applied / Development Economics (4)
+161,4,"The University of Texas at Austin (1), Stockholm University (1), Inter-American Development Bank (1)",Applied / Education Economics (4)
+160,4,"Harvard University (1), Hoover Institution (1), Stanford University (1)","Macro / Monetary Policy & Central Banking (3), Applied / Corporate & Household Finance (2)"
+164,4,"Impact (3), University of California, Berkeley (1)",Applied / Development Economics (4)
+159,4,"Peking University (1), HSBC Holdings (1), Center for Economic and Policy Research (1)",Micro / Industrial Organization & Competition (4)
+309,3,"Universidad Pública de Navarra (UPNA) (3), Gobierno de Navarra (3), IESE Business School (3)",Micro / Industrial Organization & Competition (3)
+303,3,"Bank of Canada (2), Federal Reserve Bank of St. Louis (1)",Applied / Labor Economics (3)
+304,3,"University of Pennsylvania (1), University of California, Santa Barbara (1), Koç University (1)",Micro / Industrial Organization & Competition (3)
+305,3,"Center for Economic and Policy Research (1), University of British Columbia (1), University of Lausanne (1)",Macro / Financial Markets & Stability (3)
+306,3,"University of California, Los Angeles (1), Consejo Nacional de Ciencia y Tecnología (1), National Bureau of Economic Research (1)","Applied / Labor Economics (2), Applied / Public Finance & Taxation (2)"
+307,3,"Imperial College London (2), NIHR Imperial Biomedical Research Centre (1), Commonwealth Education Trust (1)",Macro / Financial Markets & Stability (3)
+308,3,"Central European University (1), Agricultural & Applied Economics Association (1)","Applied / Development Economics (2), Applied / Political Economy & Governance (2)"
+312,3,"Free University of Bozen-Bolzano (1), University of Rome Tor Vergata (1), Center for Economic and Policy Research (1)",Applied / Political Economy & Governance (3)
+310,3,"University College London (2), Cemmap (1), Institute and Faculty of Actuaries (1)",Micro / Industrial Organization & Competition (3)
+311,3,"California Institute of Technology (1), Tel Aviv University (1), Claremont McKenna College (1)",Applied / Other / Interdisciplinary (3)
+313,3,"Harvard University (1), Center for Economic and Policy Research (1), Ludwig-Maximilians-Universität München (1)",Applied / Corporate & Household Finance (3)
+314,3,"Maastricht University (2), Aarhus University (1)",Applied / Labor Economics (3)
+315,3,"University of Georgia (1), Godfrey Okoye University (1), University College London (1)","Micro / Auctions & Market Design (2), Macro / Financial Markets & Stability (2)"
+316,3,"University College London (2), University of California, Berkeley (2)",Econometrics / Statistical & Bayesian Methods (3)
+317,3,"University of Mannheim (3), Centre for European Economic Research (1)",Applied / Labor Economics (3)
+302,3,"University of Iowa (2), Temple University (2), University of Pennsylvania (1)",Macro / Financial Markets & Stability (3)
+294,3,"Central European University (1), University of Bonn (1), Goethe University Frankfurt (1)",Micro / Behavioral & Experimental Economics (3)
+301,3,"Japan University of Economics (2), The University of Tokyo (2), Massachusetts Institute of Technology (1)",Micro / Game Theory & Mechanism Design (3)
+291,3,"Chung-Ang University (1), Georgia State University (1), University of Wisconsin–Madison (1)",Applied / Labor Economics (3)
+319,3,"HKU-Pasteur Research Pole (1), University of Hong Kong (1), Hong Kong Baptist University (1)",Applied / Development Economics (3)
+286,3,"University of Houston (2), Seoul National University (1), Korea Institute of Finance (1)",Macro / Financial Markets & Stability (3)
+287,3,"Federal Reserve Board of Governors (2), University of Chicago (1)",Micro / Industrial Organization & Competition (3)
+288,3,"Yale University (2), Princeton University (1)",Micro / General Economic Theory (3)
+289,3,"National Bureau of Economic Research (1), University of Chicago (1), Texas A&M University – San Antonio (1)",Applied / Environmental & Energy Economics (3)
+290,3,"National Bureau of Economic Research (3), Princeton University (3), Yale University (3)",Micro / General Economic Theory (3)
+292,3,"Centre for Economic Policy Research (2), University of Edinburgh (1), Ca' Foscari University of Venice (1)",Applied / Corporate & Household Finance (3)
+300,3,"Johns Hopkins University (1), Wheaton College - Illinois (1), University of Notre Dame (1)",Applied / Labor Economics (3)
+293,3,"Yale University (1), University College London (1)",Applied / International Trade (3)
+295,3,"Trinity College Dublin (3), University of Gothenburg (3)",Applied / Development Economics (3)
+296,3,"Princeton University (3), University of Michigan (3)","Micro / Game Theory & Mechanism Design (3), Micro / General Economic Theory (2)"
+297,3,"Duke University (1), Nuffield Foundation (1), University of Oxford (1)",Applied / Education Economics (3)
+298,3,"Federal Reserve (2), Federal Reserve Board of Governors (2), European University Institute (1)",Macro / Financial Markets & Stability (3)
+299,3,"Singapore Management University (2), Duke University (1)",Macro / Financial Markets & Stability (3)
+318,3,"Decision Sciences (United States) (2), HEC Paris in Qatar (2), HEC Paris (2)","Applied / Other / Interdisciplinary (3), Micro / Game Theory & Mechanism Design (1)"
+337,3,Federal Reserve Bank of Richmond (2),Applied / Environmental & Energy Economics (3)
+320,3,"Yale University (1), Center for Economic and Policy Research (1), BREAD (Bureau for Research and Economic Analysis of Development) (1)","Applied / International Trade (2), Applied / Labor Economics (2)"
+346,3,,Macro / Monetary Policy & Central Banking (3)
+340,3,Federal Reserve Bank of Minneapolis (2),Macro / Financial Markets & Stability (3)
+341,3,"California Institute of Technology (1), University of Toronto (1)",Macro / Financial Markets & Stability (3)
+342,3,"Imperial College London (1), New York University (1), Federal Reserve Bank of Chicago (1)",Macro / Monetary Policy & Central Banking (3)
+343,3,"Economic Research Centre (1), Quantum Devices (United States) (1), London School of Economics and Political Science (1)",Macro / Financial Markets & Stability (3)
+344,3,"University of the Humanities (2), University of Hong Kong (2), Peking University (1)",Applied / Political Economy & Governance (3)
+345,3,,Applied / Education Economics (3)
+347,3,"McGill University (1), University of Toronto (1), California Southern University (1)",Applied / Labor Economics (3)
+338,3,,Macro / Financial Markets & Stability (3)
+348,3,"London School of Economics and Political Science (1), UNSW Sydney (1), World Bank (1)","Econometrics / Causal Inference & Identification (3), Applied / Development Economics (1)"
+349,3,"Federal Reserve Board of Governors (1), BI Norwegian Business School (1), University of Chicago (1)","Macro / Monetary Policy & Central Banking (3), Applied / Labor Economics (1)"
+350,3,"Bank of England (1), Federal Reserve (1), Federal Reserve Board of Governors (1)",Macro / Monetary Policy & Central Banking (3)
+351,3,,Micro / Industrial Organization & Competition (3)
+352,3,Federal Reserve Board of Governors (3),Macro / Financial Markets & Stability (3)
+353,3,"University of Michigan (1), George Mason University (1), Federal Reserve Bank of Chicago (1)",Applied / Public Finance & Taxation (3)
+339,3,"Virginia Tech (1), University of California, Berkeley (1), University of California, Santa Cruz (1)",Micro / Behavioral & Experimental Economics (3)
+284,3,"Northwestern University (1), New York University (1), University of Oxford (1)",Applied / Development Economics (3)
+321,3,"Los Angeles Police Department (1), Princeton University (1), National Bureau of Economic Research (1)",Applied / Political Economy & Governance (3)
+328,3,"Chinese University of Hong Kong (1), University of Bonn (1), University of Tsukuba (1)",Econometrics / Statistical & Bayesian Methods (3)
+322,3,"Indiana University (1), Yeshiva University (1)",Micro / Game Theory & Mechanism Design (3)
+323,3,Hebrew University of Jerusalem (1),Micro / Game Theory & Mechanism Design (3)
+324,3,"Center for Economic and Policy Research (1), Ludwig-Maximilians-Universität München (1), University of Oxford (1)",Macro / Business Cycles & Growth (3)
+325,3,"Leibniz Institute for Financial Research SAFE (1), London School of Economics and Political Science (1), Harvard University (1)","Macro / Monetary Policy & Central Banking (2), Applied / International Trade (2), Macro / Financial Markets & Stability (2)"
+326,3,"Federal Reserve (1), Federal Reserve Board of Governors (1), Stanford University (1)",Macro / Monetary Policy & Central Banking (3)
+327,3,"University of Notre Dame (1), Peterson Institute for International Economics (1), Dartmouth College (1)",Applied / International Trade (3)
+329,3,"Bank of Italy (2), London School of Economics and Political Science (1)",Macro / Financial Markets & Stability (3)
+336,3,"University of California, Los Angeles (1), Northwestern University (1), Carnegie Mellon University (1)",Macro / Financial Markets & Stability (3)
+330,3,,Applied / Labor Economics (3)
+331,3,"United States Department of the Treasury (1), Yale University (1)","Applied / Labor Economics (3), Applied / Corporate & Household Finance (1)"
+332,3,"University of Copenhagen (2), University of Chicago (1)",Applied / Labor Economics (3)
+333,3,"Columbia University (1), Brown University (1)",Applied / Labor Economics (3)
+334,3,"Faculdades Guarulhos (2), Fundação de Apoio à Universidade Federal de São Paulo (1)",Applied / Environmental & Energy Economics (3)
+335,3,"University of Milan (2), Politecnico di Milano (2), University of Oxford (1)",Econometrics / Machine Learning in Economics (3)
+285,3,"National Bureau of Economic Research (3), Economic Policy Institute (3), Yale University (3)",Macro / Monetary Policy & Central Banking (3)
+265,3,"Center for Economic and Policy Research (1), Centre de Recherches Politiques de Sciences Po (1), Centre Pour La Recherche Economique et ses Applications (1)",Applied / Urban & Regional Economics (3)
+283,3,"UCLA Health (2), University of Minnesota (1)","Applied / Labor Economics (3), Micro / Game Theory & Mechanism Design (2)"
+237,3,"University of Cologne (3), CMR University (3), École Polytechnique (1)",Applied / Labor Economics (3)
+231,3,"University of Toronto (1), Bank of Mexico (1), University of Exeter (1)",Applied / Environmental & Energy Economics (3)
+232,3,"Columbia University (1), National Taiwan University (1), National Bureau of Economic Research (1)",Macro / Financial Markets & Stability (3)
+233,3,"Center for Economic and Policy Research (1), Johns Hopkins University (1), Centre National de la Recherche Scientifique (1)",Macro / Financial Markets & Stability (3)
+234,3,"National Bureau of Economic Research (2), University of California, Berkeley (1), Stanford University (1)",Applied / Health Economics (3)
+235,3,"Shanghai University of Finance and Economics (1), Shanghai University of International Business and Economics (1), Cheung Kong Graduate School of Business (1)",Applied / Environmental & Energy Economics (3)
+236,3,Brigham Young University (3),Econometrics / Causal Inference & Identification (3)
+238,3,"University of California, Berkeley (1), Danish Ministry of Finance (1), Danmarks Nationalbank (1)",Applied / Public Finance & Taxation (3)
+229,3,"Durham University (2), Centre d'Économie de la Sorbonne (1), Université Paris 1 Panthéon-Sorbonne (1)",Macro / Financial Markets & Stability (3)
+239,3,"Toulouse School of Economics (1), Johns Hopkins University (1), New York University (1)",Micro / Industrial Organization & Competition (3)
+240,3,"University of Michigan (2), KU Leuven (1)",Applied / Labor Economics (3)
+241,3,"National University of Singapore (1), University of Chicago (1), Cornell University (1)",Applied / Political Economy & Governance (3)
+242,3,"Princeton University (2), National Bureau of Economic Research (2), Centre for Economic Policy Research (2)","Micro / General Economic Theory (3), Micro / Auctions & Market Design (2)"
+243,3,Arizona State University (3),Applied / Environmental & Energy Economics (3)
+244,3,"Georgetown University (1), New York University (1), University of Oxford (1)","Micro / Behavioral & Experimental Economics (2), Applied / Development Economics (2)"
+230,3,University of Exeter (2),Micro / Industrial Organization & Competition (3)
+228,3,"Princeton University (1), Fundação Getulio Vargas (1), Insper (1)",Applied / Environmental & Energy Economics (3)
+246,3,"Aix-Marseille Université (1), Université Paris Sciences et Lettres (1), École Nationale Supérieure des Mines de Paris (1)",Applied / Environmental & Energy Economics (3)
+219,3,"University of Hong Kong (1), Institute for Social and Economic Research (1), The University of Osaka (1)",Micro / General Economic Theory (3)
+213,3,"Northwestern University (1), University of Surrey (1), Arizona State University (1)",Micro / Auctions & Market Design (3)
+214,3,"New York University (1), University of California, Davis (1), Simon Fraser University (1)",Micro / General Economic Theory (3)
+215,3,"University of Connecticut (1), University of Georgia (1), University of Atlanta (1)",Applied / Health Economics (3)
+216,3,"Universidad Carlos III de Madrid (1), University of Tübingen (1), McGill University (1)",Applied / Corporate & Household Finance (3)
+217,3,"University of Nottingham Ningbo China (1), Aarhus University (1), University of Nottingham (1)",Micro / Behavioral & Experimental Economics (3)
+218,3,"Massachusetts Institute of Technology (1), Microsoft Research (India) (1), Microsoft Research New England (United States) (1)","Econometrics / Causal Inference & Identification (3), Econometrics / Time Series & Panel Data Methods (1)"
+220,3,"Purdue University West Lafayette (2), University of Manchester (1)",Applied / Other / Interdisciplinary (3)
+227,3,"University of California, Davis (1)",Applied / Public Finance & Taxation (3)
+221,3,"University of Oxford (1), University of Bern (1), McGill University (1)",Macro / Financial Markets & Stability (3)
+222,3,"University of Pennsylvania (2), University of California, Los Angeles (1)",Macro / Monetary Policy & Central Banking (3)
+223,3,University College Dublin (2),Applied / Economic History (3)
+224,3,"University of Maryland, College Park (1), University of Virginia (1), University of Kentucky (1)",Applied / International Trade (3)
+225,3,"Federal Reserve Bank of New York (1), New York University (1), Indiana University (1)","Micro / Auctions & Market Design (3), Micro / Game Theory & Mechanism Design (2)"
+226,3,"Sabancı Üniversitesi (1), Durham University (1), Centro de Estudios Monetarios y Financieros (1)",Macro / Fiscal Policy (3)
+245,3,"University of Wisconsin–Madison (1), Rutgers, The State University of New Jersey (1), Rutgers Sexual and Reproductive Health and Rights (1)",Micro / Industrial Organization & Competition (3)
+247,3,"National Bureau of Economic Research (3), Seoul National University (3)",Macro / Monetary Policy & Central Banking (3)
+282,3,"Stanford University (2), Hoover Institution (1), University of Toronto (1)","Micro / Auctions & Market Design (2), Micro / General Economic Theory (2)"
+274,3,"National Bureau of Economic Research (2), United States Department of Justice (1), Centre for Economic Policy Research (1)",Applied / Health Economics (3)
+268,3,"Institut d'Etudes Politiques de Paris (1), University of Wisconsin–Madison (1), Aarhus University (1)",Macro / Business Cycles & Growth (3)
+269,3,"TU Dortmund University (1), Swedish House of Finance (1), Erasmus University Rotterdam (1)",Applied / Corporate & Household Finance (3)
+270,3,"Baruch College (1), University of Chicago (1), Columbia University (1)","Micro / Auctions & Market Design (3), Micro / General Economic Theory (1), Econometrics / Statistical & Bayesian Methods (1)"
+271,3,"Inter-American Development Bank (1), National Bureau of Economic Research (1), Boston University (1)",Micro / Industrial Organization & Competition (3)
+272,3,,Applied / Development Economics (3)
+273,3,"Dartmouth College (1), Dartmouth Hospital (1)",Micro / Industrial Organization & Competition (3)
+275,3,"University of British Columbia (2), Duke University (1)","Applied / Labor Economics (3), Applied / Development Economics (1)"
+266,3,"Chinese University of Hong Kong (2), National Bureau of Economic Research (1), Centre for Economic Policy Research (1)",Applied / Development Economics (3)
+276,3,"Johns Hopkins University (3), Centre for Economic Policy Research (2), Federal Reserve Bank of Chicago (1)",Macro / Monetary Policy & Central Banking (3)
+277,3,"Stanford University (1), Banco de Portugal (1), Boston College (1)",Macro / Financial Markets & Stability (3)
+278,3,"University of North Carolina at Charlotte (1), Brigham Young University (1), Clemson University (1)",Macro / Business Cycles & Growth (3)
+279,3,"University of Wisconsin–Madison (3), Australian Regenerative Medicine Institute (3), Monash University (3)",Macro / Fiscal Policy (3)
+280,3,"Georgia Institute of Technology (3), Federal Reserve Board of Governors (3), Rutgers Sexual and Reproductive Health and Rights (3)",Macro / Monetary Policy & Central Banking (3)
+281,3,"Federal Reserve Bank of Minneapolis (1), University College Dublin (1), Reichman University (1)",Applied / International Trade (3)
+267,3,"Lancaster University (1), University of East Anglia (1), University of Cagliari (1)",Micro / Behavioral & Experimental Economics (3)
+264,3,University of Chicago (1),Micro / Industrial Organization & Competition (3)
+248,3,"Peking University (1), HSBC Holdings (1), The University of Texas at Dallas (1)",Micro / Behavioral & Experimental Economics (3)
+255,3,"Rice University (2), New York University (1)",Micro / Auctions & Market Design (3)
+249,3,"Yale University (2), Columbia University (1)",Econometrics / Causal Inference & Identification (3)
+250,3,"North Carolina State University (1), Nagoya University (1), University of Southern Denmark (1)",Micro / Game Theory & Mechanism Design (3)
+251,3,"IZA - Institute of Labor Economics (1), Tinbergen Institute (1), University of Amsterdam (1)",Applied / Labor Economics (3)
+252,3,"Ifo Institute for Economic Research (1), Ludwig-Maximilians-Universität München (1), University of Bristol (1)",Applied / Development Economics (3)
+253,3,,Micro / Behavioral & Experimental Economics (3)
+254,3,"University of Chicago (1), Harvard University (1), University of Trento (1)",Micro / Behavioral & Experimental Economics (3)
+256,3,University of California San Diego (3),Econometrics / Causal Inference & Identification (3)
+263,3,"National Bureau of Economic Research (2), University of Pennsylvania (1), University of California, Los Angeles (1)","Applied / Corporate & Household Finance (2), Micro / General Economic Theory (2)"
+257,3,"London School of Economics and Political Science (3), Laser Scan Engineering (United Kingdom) (2)",Applied / Political Economy & Governance (3)
+258,3,"Erasmus University Rotterdam (2), University of Toronto (1), Hebrew University of Jerusalem (1)",Micro / Behavioral & Experimental Economics (3)
+259,3,"University of California, Berkeley (1), Birkbeck, University of London (1), Universidad Torcuato Di Tella (1)",Macro / Financial Markets & Stability (3)
+260,3,Bank of Italy (3),Applied / Political Economy & Governance (3)
+261,3,"University of California, Davis (1), Georgetown University (1), Peking University (1)",Macro / Monetary Policy & Central Banking (3)
+262,3,University of Pittsburgh (3),Micro / Behavioral & Experimental Economics (3)
+354,3,"Center for Economic and Policy Research (1), Centre National de la Recherche Scientifique (1), Paris School of Economics (1)",Applied / Labor Economics (3)

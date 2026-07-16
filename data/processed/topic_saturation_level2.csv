@@ -1,0 +1,26 @@
+level1,level2,paper_count,mean_fwci,median_fwci,mean_citation_percentile,pct_top10,quadrant
+Applied,Urban & Regional Economics,38,20.542,17.003,0.859,78.9,underexplored_gap
+Econometrics,Time Series & Panel Data Methods,9,16.322,12.797,0.976,100.0,underexplored_gap
+Applied,Education Economics,70,18.745,12.366,0.914,87.1,hot_and_rewarded
+Applied,Labor Economics,181,26.53,11.182,0.878,84.0,hot_and_rewarded
+Applied,Development Economics,112,26.137,10.866,0.85,82.1,hot_and_rewarded
+Macro,Business Cycles & Growth,37,16.139,10.051,0.828,75.7,underexplored_gap
+Applied,Political Economy & Governance,120,16.444,8.794,0.788,69.2,hot_and_rewarded
+Macro,Monetary Policy & Central Banking,62,14.857,8.603,0.869,80.6,underexplored_gap
+Applied,Economic History,18,10.139,8.278,0.735,66.7,underexplored_gap
+Applied,International Trade,64,14.742,8.023,0.873,84.4,underexplored_gap
+Applied,Public Finance & Taxation,27,17.578,7.338,0.921,92.6,underexplored_gap
+Applied,Health Economics,76,10.189,6.651,0.849,72.4,hot_and_rewarded
+Macro,Financial Markets & Stability,151,14.891,6.279,0.849,72.8,hot_and_rewarded
+Applied,Environmental & Energy Economics,59,23.937,5.98,0.835,67.8,quiet
+Micro,Industrial Organization & Competition,98,11.367,5.749,0.877,72.4,oversaturated
+Applied,Corporate & Household Finance,88,9.812,5.286,0.736,64.8,oversaturated
+Macro,Fiscal Policy,78,9.673,5.047,0.704,65.4,oversaturated
+Micro,General Economic Theory,103,8.199,4.348,0.692,60.2,oversaturated
+Micro,Behavioral & Experimental Economics,78,7.289,4.295,0.858,66.7,oversaturated
+Econometrics,Causal Inference & Identification,26,29.2,4.129,0.779,69.2,quiet
+Econometrics,Statistical & Bayesian Methods,34,5.308,3.761,0.888,67.6,quiet
+Econometrics,Machine Learning in Economics,19,11.516,2.86,0.841,57.9,quiet
+Micro,Auctions & Market Design,80,3.421,2.404,0.846,42.5,oversaturated
+Micro,Game Theory & Mechanism Design,65,3.681,2.377,0.776,49.2,quiet
+Applied,Other / Interdisciplinary,134,3.095,0.0,0.362,17.9,oversaturated
