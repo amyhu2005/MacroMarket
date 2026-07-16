@@ -42,6 +42,7 @@ def main():
     scope_papers = papers[papers.paper_id.isin(scoped_ids)]
     scope_paper_ids = set(scope_papers["paper_id"])
     level1_by_paper = dict(zip(scope_papers.paper_id, scope_papers.level1))
+    level2_by_paper = dict(zip(scope_papers.paper_id, scope_papers.level2))
 
     auth = authorships[authorships.paper_id.isin(scope_paper_ids)].dropna(subset=["author_id"]).copy()
 
@@ -112,22 +113,32 @@ def main():
             "level1": author_level1.get(aid, "Applied"),
         })
 
-    # co-authorship edges among used authors, weighted by shared in-scope papers, colored by dominant level1
+    # co-authorship edges among used authors, weighted by shared in-scope papers,
+    # colored by dominant level1, and broken down by level1/level2 topic (of the
+    # shared papers) so the geo map can filter to "collaborators on topic X"
     pair_data = {}
     for pid, g in auth[auth.author_id.isin(used_author_ids)].groupby("paper_id"):
         ids = [a for a in g.author_id.unique() if a in author_index]
         lvl1 = level1_by_paper.get(pid, "Applied")
+        lvl2 = level2_by_paper.get(pid)
         for i in range(len(ids)):
             for j in range(i + 1, len(ids)):
                 key = tuple(sorted([author_index[ids[i]], author_index[ids[j]]]))
-                d = pair_data.setdefault(key, {"weight": 0, "level1_counts": {}})
+                d = pair_data.setdefault(key, {"weight": 0, "level1_counts": {}, "topic_counts": {}})
                 d["weight"] += 1
                 d["level1_counts"][lvl1] = d["level1_counts"].get(lvl1, 0) + 1
+                if pd.notna(lvl2):
+                    tkey = (lvl1, lvl2)
+                    d["topic_counts"][tkey] = d["topic_counts"].get(tkey, 0) + 1
 
     edges = []
     for (a, b), d in pair_data.items():
         dominant = max(d["level1_counts"], key=d["level1_counts"].get)
-        edges.append({"a": a, "b": b, "w": d["weight"], "level1": dominant})
+        topics = [
+            {"level1": lvl1, "level2": lvl2, "n": n}
+            for (lvl1, lvl2), n in sorted(d["topic_counts"].items(), key=lambda kv: -kv[1])
+        ]
+        edges.append({"a": a, "b": b, "w": d["weight"], "level1": dominant, "topics": topics})
 
     out = {"institutions": institutions, "authors": authors, "edges": edges}
     out_path = PROC_DIR / "viz_geo_network.json"
